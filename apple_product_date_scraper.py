@@ -41,7 +41,6 @@ countries.append(CountryUrl('France', 'https://www.apple.com/fr/shop/buy-iphone/
 countries.append(CountryUrl('Japan', 'https://www.apple.com/jp/shop/buy-iphone/iphone-se', '%a %Y/%m/%d')) #no payment
 countries.append(CountryUrl('China', 'https://www.apple.com.cn/shop/buy-iphone/iphone-se', '%a %d/%m/%Y')) #trade in first, no payment
 delay = 1 # in seconds
-delay_long = 2 # in seconds
 ###################
 
 records = []
@@ -74,7 +73,7 @@ def before_color_loop(driver, country):
     if country == 'Canada' or country == 'Germany' or country == 'China':
         #Click "No" for trade in
         driver.find_element_by_xpath('//*[@id="tradeup-inline-app"]/div/div/fieldset/div/div[2]/div/div').click()
-        time.sleep(delay_long)
+        time.sleep(delay*1.5)
 
 def click_element(driver, xpath):
     element = driver.find_element_by_xpath(xpath)
