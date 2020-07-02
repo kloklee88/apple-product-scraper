@@ -172,6 +172,10 @@ def execute_scrape(countries):
                             need_trade_pay = False
                         date = driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div[2]/div/div/ul/li/span').text
                         save_record(color, size, country, None, date, date_format)
+                    elif country == 'China':
+                        time.sleep(delay_long)
+                        driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div/div/div/ul/li[1]/span').text
+                        save_record(color, size, country, None, date, date_format)
                     else:
                         time.sleep(delay_long)
                         date = driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div[2]/div/div/ul/li/span').text
