@@ -123,12 +123,12 @@ def execute_scrape(countries):
             #Loop through color options
             for i in range(color_length):
                 click_element(driver, '//*[@id="Item1"]/div/fieldset/div[1]/div['+ str(i+1) +']')
-                color = driver.find_element_by_xpath('//*[@id="Item1"]/div/fieldset/div[1]/div['+ str(i+1) +']/div/div/label/span[2]').text
+                color = driver.find_element_by_xpath('//*[@id="Item1"]/div/fieldset/div[1]/div['+ str(i+1) +']/div/div/label/span[2]').text.capitalize()
                 print(color)
                 #Loop through GB size options
                 for j in range(size_length):
                     click_element(driver, '//*[@id="Item2"]/div/fieldset/div/div['+ str(j+1) +']')
-                    size = driver.find_element_by_xpath('//*[@id="Item2"]/div/fieldset/div/div['+ str(j+1) +']/div/label/span[1]').text
+                    size = driver.find_element_by_xpath('//*[@id="Item2"]/div/fieldset/div/div['+ str(j+1) +']/div/label/span[1]').text.capitalize()
                     size = size.replace('*', '')
                     print(size)
                     #Loop through carrier options
@@ -173,11 +173,11 @@ def execute_scrape(countries):
                         date = driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div[2]/div/div/ul/li/span').text
                         save_record(color, size, country, None, date, date_format)
                     elif country == 'China':
-                        time.sleep(delay_long)
-                        driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div/div/div/ul/li[1]/span').text
+                        time.sleep(delay)
+                        date = driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div/div/div/ul/li[1]/span').text
                         save_record(color, size, country, None, date, date_format)
                     else:
-                        time.sleep(delay_long)
+                        time.sleep(delay)
                         date = driver.find_element_by_xpath('//*[@id="primary"]/summary-builder/div[2]/div[1]/materializer/div[2]/div/div/ul/li/span').text
                         save_record(color, size, country, None, date, date_format)
                 print('-----------------------------')
