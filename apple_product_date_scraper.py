@@ -6,6 +6,8 @@ import traceback
 import requests
 import sys
 import webbrowser
+from tkinter import *
+from tkinter import font as tkFont
 from datetime import datetime
 from datetime import timedelta
 from selenium import webdriver
@@ -92,6 +94,7 @@ def execute_scrape(countries):
     options.add_experimental_option("prefs", prefs)
 
     try:
+        print([country.country for country in countries])
         #Loop through countries
         for country_url in countries:
             country = country_url.country
@@ -188,7 +191,66 @@ def execute_scrape(countries):
             for record in records:
                 writer.writerow([record.color, record.size, record.country, record.carrier, record.date, record.day_to_ship])
 
-execute_scrape(countries)
+#execute_scrape(countries)
+
+###################
+# GUI 
+###################
+class Window(Frame):
+    def __init__(self, master=None):
+        Frame.__init__(self, master)                 
+        self.master = master
+        self.init_window()
+
+    def init_window(self, side=LEFT, anchor=W):
+        self.master.title("Apple Product Scraper")
+        self.pack(fill=BOTH, expand=1)
+        self.active_list = []
+        self.urls = []
+        self.date_formats = []
+        helv = tkFont.Font(family='Helvetica', size=12, weight=tkFont.BOLD)
+        for i,country in enumerate(countries):
+            is_active = IntVar(value=1)
+            Checkbutton(self, text=country.country, variable=is_active, font=helv).grid(row=i,column=0,sticky=W)
+            self.active_list.append(is_active)
+            url = StringVar(value=country.url)
+            Entry(self, textvariable=url, font=helv, width=50).grid(row=i,column=1,sticky=W)
+            self.urls.append(url)
+            date_format = StringVar(value=country.date_format)
+            Entry(self, textvariable=date_format, font=helv, width=20).grid(row=i,column=2,sticky=W)
+            self.date_formats.append(date_format)
+        Button(self, text="Run",command=self.execute_scrape, width=15, font=helv).place(relx=0.5, rely=0.7, anchor=CENTER)
+        Button(self, text="Exit",command=self.client_exit, width=15, font=helv).place(relx=0.5, rely=0.8, anchor=CENTER)
+    
+    def client_exit(self):
+        exit()
+
+    def execute_scrape(self):
+        updated_countries = self.update_country()
+        #print([country.url for country in updated_countries])
+        #print([country.date_format for country in updated_countries])
+        filtered_countries = self.filter_country(updated_countries)
+        execute_scrape(filtered_countries)
+
+    def update_country(self):
+        updated_countries = []
+        for i,country in enumerate(countries):
+            country.url = self.urls[i].get()
+            country.date_format = self.date_formats[i].get()
+            updated_countries.append(country)
+        return updated_countries
+
+    def filter_country(self, updated_countries):
+        filtered_countries = []
+        for i,country in enumerate(updated_countries):
+            if self.active_list[i].get() == 1:
+                filtered_countries.append(country)
+        return filtered_countries
+
+root = Tk()
+root.geometry("800x400")
+app = Window(root)
+root.mainloop() 
 
 
 
