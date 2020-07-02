@@ -1,0 +1,2198 @@
+('C:\\Users\\Kevin '
+ 'Desktop\\Documents\\GitHub\\apple-product-scraper\\build\\apple_product_date_scraper\\PYZ-00.pyz',
+ [('ssl',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('test.support',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\test\\support\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('test.support.testresult',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\test\\support\\testresult.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('nntplib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\nntplib.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('test',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\test\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\token.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\os.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('googletrans',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\__init__.py',
+   'PYMODULE'),
+  ('googletrans.constants',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\constants.py',
+   'PYMODULE'),
+  ('googletrans.client',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\client.py',
+   'PYMODULE'),
+  ('googletrans.models',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\models.py',
+   'PYMODULE'),
+  ('googletrans.gtoken',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\gtoken.py',
+   'PYMODULE'),
+  ('httpx',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._content_streams',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_content_streams.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('httpx._transports.urllib3',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_transports\\urllib3.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('sniffio',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\sniffio\\__init__.py',
+   'PYMODULE'),
+  ('sniffio._impl',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\sniffio\\_impl.py',
+   'PYMODULE'),
+  ('sniffio._version',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\sniffio\\_version.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('rfc3986',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\__init__.py',
+   'PYMODULE'),
+  ('rfc3986.parseresult',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\parseresult.py',
+   'PYMODULE'),
+  ('rfc3986.api',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\api.py',
+   'PYMODULE'),
+  ('rfc3986.iri',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\iri.py',
+   'PYMODULE'),
+  ('rfc3986.uri',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\uri.py',
+   'PYMODULE'),
+  ('rfc3986._mixin',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\_mixin.py',
+   'PYMODULE'),
+  ('rfc3986.validators',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\validators.py',
+   'PYMODULE'),
+  ('rfc3986.normalizers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\normalizers.py',
+   'PYMODULE'),
+  ('rfc3986.misc',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\misc.py',
+   'PYMODULE'),
+  ('rfc3986.abnf_regexp',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\abnf_regexp.py',
+   'PYMODULE'),
+  ('rfc3986.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\exceptions.py',
+   'PYMODULE'),
+  ('rfc3986.compat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\rfc3986\\compat.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\cgi.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('hstspreload',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hstspreload\\__init__.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('httpcore',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('h11',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._version',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._util',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._state',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('h2.settings',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\settings.py',
+   'PYMODULE'),
+  ('h2',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\__init__.py',
+   'PYMODULE'),
+  ('h2.errors',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\errors.py',
+   'PYMODULE'),
+  ('hyperframe.frame',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hyperframe\\frame.py',
+   'PYMODULE'),
+  ('hyperframe',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hyperframe\\__init__.py',
+   'PYMODULE'),
+  ('hyperframe.flags',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hyperframe\\flags.py',
+   'PYMODULE'),
+  ('hyperframe.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hyperframe\\exceptions.py',
+   'PYMODULE'),
+  ('h2.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\exceptions.py',
+   'PYMODULE'),
+  ('h2.config',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\config.py',
+   'PYMODULE'),
+  ('h2.events',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\events.py',
+   'PYMODULE'),
+  ('h2.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\connection.py',
+   'PYMODULE'),
+  ('h2.windows',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\windows.py',
+   'PYMODULE'),
+  ('h2.utilities',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\utilities.py',
+   'PYMODULE'),
+  ('hpack',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\__init__.py',
+   'PYMODULE'),
+  ('hpack.struct',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\struct.py',
+   'PYMODULE'),
+  ('h2.stream',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\stream.py',
+   'PYMODULE'),
+  ('h2.frame_buffer',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\h2\\frame_buffer.py',
+   'PYMODULE'),
+  ('hpack.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\exceptions.py',
+   'PYMODULE'),
+  ('hpack.hpack',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\hpack.py',
+   'PYMODULE'),
+  ('hpack.huffman_table',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\huffman_table.py',
+   'PYMODULE'),
+  ('hpack.huffman_constants',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\huffman_constants.py',
+   'PYMODULE'),
+  ('hpack.huffman',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\huffman.py',
+   'PYMODULE'),
+  ('hpack.compat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\compat.py',
+   'PYMODULE'),
+  ('hpack.table',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\hpack\\table.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._backends.asyncio',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_backends\\asyncio.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpcore._types',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_types.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._threadlock',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_threadlock.py',
+   'PYMODULE'),
+  ('httpcore._sync.base',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_sync\\base.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.base',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\httpcore\\_async\\base.py',
+   'PYMODULE'),
+  ('googletrans.utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\utils.py',
+   'PYMODULE'),
+  ('googletrans.urls',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\googletrans\\urls.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.options',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\chrome\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\chrome\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.desired_capabilities',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\desired_capabilities.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.keys',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\keys.py',
+   'PYMODULE'),
+  ('selenium.common.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\common\\exceptions.py',
+   'PYMODULE'),
+  ('selenium.common',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\common\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.proxy',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\proxy.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.touch_actions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\touch_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.command',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\command.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.action_chains',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\action_chains.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.action_builder',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\action_builder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_input',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webelement',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.by',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\by.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.input_device',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\input_device.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\uuid.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_actions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.mouse_button',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\mouse_button.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_input',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_actions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.interaction',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\interaction.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\actions\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.html5.application_cache',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\html5\\application_cache.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.html5',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\html5\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.file_detector',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\file_detector.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.mobile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\mobile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.switch_to',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\switch_to.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.alert',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\common\\alert.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.errorhandler',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.remote_connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\remote\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.options',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\webkitgtk\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\webkitgtk\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\webkitgtk\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\webkitgtk\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.android.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\android\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.android',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\android\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.phantomjs.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\phantomjs\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.phantomjs',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\phantomjs\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.phantomjs.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\phantomjs\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.blackberry.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\blackberry\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.blackberry',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\blackberry\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.ui',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\support\\ui.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\support\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.wait',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\support\\wait.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.select',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\support\\select.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\safari\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\safari\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.remote_connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\safari\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\safari\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.opera.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\opera\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.opera',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\opera\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.opera.options',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\opera\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\edge\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\edge\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\edge\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.options',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\ie\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\ie\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\ie\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\ie\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\chrome\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.remote_connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\chrome\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.options',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_binary',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_binary.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_profile',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_profile.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.webdriver',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.webelement',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\webelement.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.service',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.remote_connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.extension_connection',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\webdriver\\firefox\\extension_connection.py',
+   'PYMODULE'),
+  ('selenium',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\selenium\\__init__.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\kevin '
+   'desktop\\appdata\\local\\programs\\python\\python38-32\\lib\\csv.py',
+   'PYMODULE')])
