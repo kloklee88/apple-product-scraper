@@ -127,7 +127,7 @@ def execute_scrape(countries):
                 #Loop through GB size options
                 for j in range(size_length):
                     click_element(driver, '//*[@id="Item2"]/div/fieldset/div/div['+ str(j+1) +']')
-                    size = driver.find_element_by_xpath('//*[@id="Item2"]/div/fieldset/div/div['+ str(j+1) +']/div/label/span[1]').text.capitalize()
+                    size = driver.find_element_by_xpath('//*[@id="Item2"]/div/fieldset/div/div['+ str(j+1) +']/div/label/span[1]').text.replace(" ", "")
                     size = size.replace('*', '')
                     print(size)
                     #Loop through carrier options
